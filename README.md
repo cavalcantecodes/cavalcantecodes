@@ -19,7 +19,3 @@
 cavalcantecodes/cavalcantecodes is a ✨ unique ✨ repository because its `README.md` (this file) is showcased on your GitHub profile.
 Hint: Use the Preview link to see your changes in action.
 --->
-
----
-
-The revised content provides a professional yet engaging introduction and adds a bit of flair to make it stand out. Adjust as you see fit!
